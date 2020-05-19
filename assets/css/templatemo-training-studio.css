@@ -179,6 +179,7 @@ body {
 }
 
 .main-button a {
+  margin-top: 20px;
   display: inline-block;
   font-size: 15px;
   padding: 12px 20px;
@@ -684,7 +685,7 @@ features
 }
 
 .feature-item .right-content h4 {
-  margin-top: 20px;
+  margin-top: 0px;
   margin-bottom:  7px;
   letter-spacing: 0.25px;
   color: #232d39;
